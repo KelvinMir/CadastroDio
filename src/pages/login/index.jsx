@@ -37,7 +37,9 @@ const Login = () => {
     console.log('errors', errors);
 
     return (<>
-        <Header />
+        <Header>
+        <h1> Faça login na sua conta </h1>    
+        </Header>
         <Container>
             <Column>
                 <Title>A plataforma para você aprender com experts, dominar as principais tecnologias

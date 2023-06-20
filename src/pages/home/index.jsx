@@ -19,7 +19,9 @@ const Home = () => {
         
 
     return (<>
-        <Header />
+        <Header>
+        <h1> Dio.me </h1>
+        </Header>
         <Container>
             <div>
                 <Title>

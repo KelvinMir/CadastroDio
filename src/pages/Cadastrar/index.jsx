@@ -33,7 +33,9 @@ const Cadastrar = () => {
         console.log('errors', errors);
 
     return (<>
-        <Header>Dio.me </Header>
+        <Header> 
+            <h1> Se Cadastre </h1>
+        </Header>
         
         <Container>
             <Column>
