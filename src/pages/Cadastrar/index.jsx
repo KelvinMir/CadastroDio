@@ -33,7 +33,7 @@ const Cadastrar = () => {
         console.log('errors', errors);
 
     return (<>
-        <Header />
+        <Header>Dio.me </Header>
         
         <Container>
             <Column>
